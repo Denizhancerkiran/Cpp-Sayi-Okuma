@@ -90,7 +90,7 @@ void yazdiron(int a)
 	  case 5: 
 	  cout<<"elli "; b
 	  case 6: 
-	  cout<<"atmis "; b
+	  cout<<"altmis "; b
 	  case 7: 
 	  cout<<"yetmis "; b
 	  case 8: 
